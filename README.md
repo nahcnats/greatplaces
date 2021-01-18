@@ -1,6 +1,6 @@
 # greatplace
 
-This is a simple app that takes pictures, uses Expo's geolocation API and SQLite I develop based on an online course I bought.
+This is a simple app that takes pictures, uses Expo's geolocation API and SQLite.
 
 # Installation
 
