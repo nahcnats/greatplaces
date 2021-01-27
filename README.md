@@ -2,6 +2,25 @@
 
 This is a simple app that takes pictures, uses Expo's geolocation API and SQLite.
 
+Please [contact me](mailto:nahcnats@gmail.com) if you want to try the demo as I use Google's services for this [app](https://expo.io/@nahcnats/projects/great-places).
+
+### Screenshots
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start; padding-horizontal: 1rem">
+    <img src="https://github.com/nahcnats/screenshots/blob/main/greateplaces/Screenshot01.png" width="20%"/>
+    <img src="https://github.com/nahcnats/screenshots/blob/main/greateplaces/Screenshot02.png" width="20%"/>
+    <img src="https://github.com/nahcnats/screenshots/blob/main/greateplaces/Screenshot03.png" width="20%"/>
+    <img src="https://github.com/nahcnats/screenshots/blob/main/greateplaces/Screenshot04.png" width="20%"/>
+    <img src="https://github.com/nahcnats/screenshots/blob/main/greateplaces/Screenshot05.png" width="20%"/>
+    <img src="https://github.com/nahcnats/screenshots/blob/main/greateplaces/Screenshot06.png" width="20%"/>
+    <img src="https://github.com/nahcnats/screenshots/blob/main/greateplaces/Screenshot07.png" width="20%"/>
+    <img src="https://github.com/nahcnats/screenshots/blob/main/greateplaces/Screenshot08.png" width="20%"/>
+    <img src="https://github.com/nahcnats/screenshots/blob/main/greateplaces/Screenshot09.png" width="20%"/>
+    <img src="https://github.com/nahcnats/screenshots/blob/main/greateplaces/Screenshot10.png" width="20%"/>
+  </div>
+</div>
+
 # Installation
 
 ### Prerequisite
